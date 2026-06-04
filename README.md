@@ -12,6 +12,9 @@ ImmersionTube is a desktop application designed for language learners who want t
 - 📊 Monitor long-term learning progress
 - 🎯 Stay motivated with measurable goals
 
+<img width="1447" height="974" alt="Preview" src="https://github.com/user-attachments/assets/3f947f45-d656-4fc9-8725-6411308bfec1" />
+
+
 ## Why Immersion?
 
 Language acquisition improves through consistent exposure to authentic content. ImmersionTube helps you focus on what matters most: spending time with your target language.
